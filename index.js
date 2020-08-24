@@ -27,7 +27,7 @@ function findDefinition(word) {
     })
 
     for(var i = 0; i<definitions.length;i++){
-        console.log(definitons[i]);
+        console.log(definitions[i]);
     }
 }
 
